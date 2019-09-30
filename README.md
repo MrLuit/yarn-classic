@@ -6,7 +6,7 @@
 
 <p align="center">
   Fast, reliable, and secure dependency management.
-</p>
+</p>v
 
 <p align="center">
   <a href="https://circleci.com/gh/yarnpkg/yarn"><img alt="Circle Status" src="https://circleci.com/gh/yarnpkg/yarn.svg?style=shield&circle-token=5f0a78473b0f440afb218bf2b82323cc6b3cb43f"></a>

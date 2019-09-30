@@ -1,6 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant-Code-of-Conduct
 
-## Our Pledge
+## Our pledge
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
@@ -45,7 +45,7 @@ threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces
+This Code-of-Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project e-mail
 address, posting via an official social media account, or acting as an appointed
